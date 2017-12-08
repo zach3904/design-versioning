@@ -43,6 +43,14 @@
     {
       "class": "text",
       "id": "3CF23BC1-2832-4605-BE8A-A2567CC65894"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6CD7DFAB-2AA2-4A83-B76E-684A876A2842"
+    },
+    {
+      "class": "text",
+      "id": "F0CD8804-9368-4F2F-9920-F4016DE27050"
     }
   ],
   "name": "Page 1",
